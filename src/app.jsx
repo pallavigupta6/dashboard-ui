@@ -37,7 +37,7 @@ function App() {
                   <div className='profitProgress'>
                     <div
                       className='radial-progress text-primary'
-                      style={{ '--value': 70, '--size': '7rem' }}
+                      style={{ '--value': 70 }}
                       role='progressbar'
                     >
                       <div className='percentage'>70%</div>

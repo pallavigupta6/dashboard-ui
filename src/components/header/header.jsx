@@ -1,4 +1,5 @@
 import { Bell, Mail, Settings } from 'react-feather';
+import './header.scss';
 
 export const Header = () => {
   return (

@@ -34,11 +34,7 @@ export const Table = () => {
                   </div>
                 </div>
               </td>
-              <td>
-                Zemlak, Daniel and Leannon
-                <br />
-                <span className='badge badge-ghost badge-sm'>Desktop Support Technician</span>
-              </td>
+              <td>12345</td>
               <td>Purple</td>
               <th>
                 <Tags>Delivered</Tags>
@@ -61,11 +57,7 @@ export const Table = () => {
                   </div>
                 </div>
               </td>
-              <td>
-                Carroll Group
-                <br />
-                <span className='badge badge-ghost badge-sm'>Tax Accountant</span>
-              </td>
+              <td>1234</td>
               <td>Red</td>
               <th>
                 <Tags>Delivered</Tags>
@@ -88,11 +80,7 @@ export const Table = () => {
                   </div>
                 </div>
               </td>
-              <td>
-                Rowe-Schoen
-                <br />
-                <span className='badge badge-ghost badge-sm'>Office Assistant I</span>
-              </td>
+              <td>1235</td>
               <td>Crimson</td>
               <th>
                 <Tags color='red'>Cancelled</Tags>
@@ -115,11 +103,7 @@ export const Table = () => {
                   </div>
                 </div>
               </td>
-              <td>
-                Wyman-Ledner
-                <br />
-                <span className='badge badge-ghost badge-sm'>Community Outreach Specialist</span>
-              </td>
+              <td>9888</td>
               <td>Indigo</td>
               <th>
                 <Tags color='red'>Cancelled</Tags>
