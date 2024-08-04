@@ -1,0 +1,19 @@
+.recentOrders {
+  height: 23.5rem;
+  width: 100%;
+  background-color: var(--background-color);
+  width: 100%;
+  border-radius: 0.5rem;
+  padding: 1rem;
+
+  .title {
+    color: var(--text-color);
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+
+  .tableContainer {
+    height: calc(100% - 3.5rem);
+    overflow-y: scroll;
+  }
+}

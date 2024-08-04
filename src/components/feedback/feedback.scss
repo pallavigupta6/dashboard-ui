@@ -1,0 +1,27 @@
+.feedbackContainer {
+  height: 23.5rem;
+  width: 100%;
+  background-color: var(--background-color);
+  width: 100%;
+  border-radius: 0.5rem;
+  padding: 1rem;
+
+  .title {
+    color: var(--text-color);
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+
+  .feedbacks {
+    height: calc(100% - 3.5rem);
+    overflow-y: scroll;
+    .feedback {
+      padding-bottom: 1rem;
+      margin-bottom: 1rem;
+      border-bottom: 0.1rem solid var(--icon-fill);
+      .text {
+        font-size: 0.8rem;
+      }
+    }
+  }
+}
